@@ -30,7 +30,7 @@ if framework == 'QB' then
 end
 
 if framework == 'ESX' then
-    ESX.RegisterUsableItem('bread', function(source)
+    ESX.RegisterUsableItem('compass', function(source)
         local xPlayer = ESX.GetPlayerFromId(source)
         if compass.useItem == true then
             if xPlayer.getInventoryItem("compass") ~= nil then
