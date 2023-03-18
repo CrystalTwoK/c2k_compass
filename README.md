@@ -10,8 +10,8 @@ Discord: https://dsc.gg/c2k
 
 ## Supported Frameworks
 
-- qb-core
-- ESX
+- <b>QB-CORE</b>
+- <b>ESX</b>
 
 ## Resources Dependencies
 
@@ -27,12 +27,12 @@ Discord: https://dsc.gg/c2k
 ## Setup
 
 - Go on https://store.andreamarucci.com/
-- Log into your CFX.re Account
-- Select the C2K_COMPASS resource from the resource list and buy it
+- Log into your <b>CFX.re</b> Account
+- Select the <b>C2K_COMPASS</b> resource from the resource list and buy it
 - Download the asset provived by the store and put it inside your resources folder
-- Add the item "COMPASS" to your items
-- Ensure the start of C2K_COMPASS inside your server.cfg writing 'ensure c2k_compass'
-- Start the server and enjoy your new resource!
+- Add the item "<b>COMPASS</b>" to your items
+- Ensure the start of <b>C2K_COMPASS</b> inside your server.cfg writing </b>'ensure c2k_compass'</b>
+- Start the server and <b>enjoy</b> your new resource!
 
 **QB-CORE ITEM TO ADD**:
 
